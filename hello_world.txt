@@ -4,3 +4,5 @@ Test this out
 And again +1
 +2
 git status
+Test this  
+Let's have some fun
