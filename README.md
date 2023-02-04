@@ -1,5 +1,3 @@
 # git_test
 My first GitHub repo!
-Hello Odin - You sexy bastard. 
-Test
-Test again
+Hello Odin - You sexy bastard.
